@@ -15,6 +15,6 @@ If it's still not there and you can't find it on google it's most likely private
 ![](https://up.ppy.sh/files/screenshot122-9.jpg)
 
 # [Seoul (Misaki Tobisawa Edit)](https://mega.nz/#!M6JiVIaQ!4MtmDBIt4QLExgkk_NqpEh5no2cdrCL28cUBWqYRL2k)
-Note: This skin only works on HD resolution, so expect the skin to be bugged at smaller screens.
+## Note: This skin only works on HD resolution, so expect the skin to be bugged at smaller screens.
 ![](https://up.ppy.sh/files/screenshot123-9.jpg)
 
